@@ -19,6 +19,4 @@ Uma simulação interativa do Sistema Solar desenvolvida com React, Three.js e T
 - SCSS
 - Vite
 
-## 📦 Instalação
-
-1. Clone o repositório:
+---
